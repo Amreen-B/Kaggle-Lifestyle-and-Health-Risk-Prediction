@@ -29,7 +29,6 @@ This synthetic dataset simulates lifestyle and wellness attributes for 5,000 ind
 - 📊 **EDA Notebook**: Explore relationships between lifestyle variables and health risk.
 - 🧠 **ML Model**: Train RandomForest, XGBoost, or Logistic Regression to predict `health_risk`.
 - 📈 **SHAP Analysis**: Identify key drivers of health risk using explainable ML.
-- 🌐 **Streamlit Web App**: Deploy a user-friendly app to predict risk based on input lifestyle.
 
 ---
 
